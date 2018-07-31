@@ -1,0 +1,77 @@
+body{
+	background: #dce2ed;
+	top: 0;
+	left: 0;
+	min-width: 100%;
+	min-height: 100%;
+	background-size: cover;
+	
+}
+
+table{
+	margin: 20px auto;
+	width: 25%;
+	text-align: center;
+}
+
+form{
+	margin: 40px auto;
+	width: 33%;
+}
+
+th{
+	border-bottom: 1px solid black;
+	font-weight: 200;
+}
+td{
+	padding: 5px;
+}
+button{
+	border: 1px solid grey;
+	border-radius: 5px;
+	color: #9b9b95;
+	background: #f7ff6b;
+	font-size: 15px;
+	margin: auto;
+	display: block;
+}
+label{
+	margin: auto;
+	display: block;
+	text-align: center;
+}
+.textIn{
+	border: 1px solid grey;
+	border-radius: 5px;
+	margin: 5px auto;
+	display: block;
+}
+
+.header{
+	font-style: italic;
+	font-weight: 900;
+}
+#del{
+	border: 1px solid grey;
+	border-radius: 5px;
+	color: white;
+	background: #f45c42;
+	font-size: 14px;
+	text-decoration: none;
+	padding: 3px;
+	display: inline;
+	margin: 5px;
+
+}
+#edit{
+	border: 1px solid grey;
+	border-radius: 5px;
+	color: white;
+	background: #41f45c;
+	font-size: 14px;
+	text-decoration: none;
+	display: inline;
+	padding: 3px;
+	margin: 5px;
+}
+
