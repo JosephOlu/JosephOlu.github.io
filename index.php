@@ -14,7 +14,7 @@ include("server.php");
 
 	<div class="input-grp">
 		<label>Task to do:</label>
-		<input class="textIn" type="text" name="task" value="<?php echo $task ?> ">
+		<input class="textIn" type="text" name="task" value="<?php echo $task ?>">
 	</div>
 	<div class="input-grp">
 		<label>Date to complete it:</label>
